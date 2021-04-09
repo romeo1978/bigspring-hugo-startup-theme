@@ -69,9 +69,6 @@ sections:
 - type: heading
   label: Configuration
 - type: document
-  path: exampleSite/config/_default/config.toml
-  label: Configuration
-- type: document
   path: exampleSite/config/_default/params.toml
   label: Parameters
 - type: document
