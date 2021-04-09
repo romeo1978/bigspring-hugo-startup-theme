@@ -9,6 +9,7 @@ fields:
   - type: text
     name: name
     label: name
+    default: ''
   - type: text
     name: url
     label: url
