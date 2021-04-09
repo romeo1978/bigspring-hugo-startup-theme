@@ -1,0 +1,47 @@
+---
+label: exampleSite/config/_default/menus.zh-cn.toml
+hide_body: true
+fields:
+- type: field_group_list
+  name: main
+  label: main
+  fields:
+  - type: text
+    name: name
+    label: name
+  - type: text
+    name: url
+    label: url
+  - type: number
+    name: weight
+    label: weight
+- type: field_group_list
+  name: footer_left
+  label: footer_left
+  fields:
+  - type: text
+    name: name
+    label: name
+  - type: text
+    name: url
+    label: url
+- type: field_group_list
+  name: footer_middle
+  label: footer_middle
+  fields:
+  - type: text
+    name: name
+    label: name
+  - type: text
+    name: url
+    label: url
+- type: field_group_list
+  name: footer_right
+  label: footer_right
+  fields:
+  - type: text
+    name: name
+    label: name
+  - type: text
+    name: url
+    label: url
