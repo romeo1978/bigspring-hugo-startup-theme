@@ -75,7 +75,7 @@ sections:
   path: exampleSite/config/_default/params.toml
   label: Parameters
 - type: document
-  path: config.toml
+  path: exampleSite/config/_default/config.toml
   label: Variables & Plugins
 - type: document
   path: exampleSite/config/_default/languages.toml
